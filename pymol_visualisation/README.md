@@ -18,7 +18,7 @@ Launch PyMOL and load your structure
 In PyMOL, run this command to load the script directly:
 
 ```
-run https://raw.githubusercontent.com/paulynamagana//pdb-alphamissense-annotator/src/visualisation/coloram.py
+run https://raw.githubusercontent.com/paulynamagana//pdb-alphamissense-annotator/visualisation/coloram.py
 ```
 
 ### 4. Run the Coloring Function
