@@ -6,7 +6,8 @@
 
 
 Annotate any PDB structure with AlphaMissense pathogenicity scores at the residue level.
-*A "tool" that a friend of mine requested to add AlphaMissense average scores into the experimental PDB file obatained from X-ray crystallography. The tricky part is that the experimental structure was not complete and had missing regions.
+
+* A "tool" that a friend of mine requested to add AlphaMissense average scores into the experimental PDB file obatained from X-ray crystallography. The tricky part is that the experimental structure was not complete and had missing regions.
 
 
 ## Features
